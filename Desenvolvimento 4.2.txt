@@ -1,0 +1,24 @@
+PRIMEIRA ETAPA: ANÁLISE DE REQUISITOS
+
+É a identificação dos requisitos que o banco de dados deve atender. 
+Nesta fase devem ser realizadas entrevistas com os envolvidos no processo, 
+cria-se uma descrição textual macro do processo, modelos externos.
+
+SEGUNDA ETAPA: PROJETO CONCEITUAL
+
+Baseia na especificação de requisitos criada na etapa anterior. 
+A partir deste insumo de informações é gerado um esquema conceitual do banco de dados. 
+Esquema conceitual é uma visão macro do banco de dados, uma descrição de alto nível da estrutura.
+
+TERCEIRA ETAPA: PROJETO LÓGICO
+
+É a etapa onde mapeamos o conceito dos modelos de entidade-relacionamento em objetivos de bancos de dados. 
+Nesta fase criamos os modelos internos de bancos de dados, com detalhes sobre tabelas, relacionamentos, 
+regras, etc.
+
+QUARTA ETAPA: PROJETO FÍSICO
+
+É a parte final do projeto de banco de dado, nesta etapa define-se detalhes técnicos da implementação do banco de dados, 
+por exemplo a forma como os dados serão armazenados, os scripts para a criação dos objetos no banco de dados, 
+permissão de acesso de usuário, etc.
+
